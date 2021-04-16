@@ -9,7 +9,8 @@ Work in progress
 ## Usage
 To use the tool locally simply run the following comands any would work 
 1. For help - ``node bin.js  -h``
-2. For testing the tool with all the options (example) - ```node bin.js  --contract-address one1rcs4yy4kln53ux60qdeuhhvpygn2sutn500dhw --repo-url https://github.com/rachit2501/Lottery-System/blob/master/contracts/Lottery.sol --chain testnet --solc-version 0.4.17```
+2. For testing the tool with all the options (example) - ```
+node bin.js  --contract-address one1rcs4yy4kln53ux60qdeuhhvpygn2sutn500dhw --repo-url https://github.com/rachit2501/Lottery-System/blob/master/contracts/Lottery.sol --chain testnet --solc-version 0.4.17```
 
 The above is just an example where each of the options prefixed with ``--`` are defined as follows
 
